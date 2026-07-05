@@ -58,6 +58,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&theme=tokyonight&layout=compact)
 
 ---
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&layout=compact&theme=tokyonight&langs_count=6)
 
 # 🏆 GitHub Trophies
 
