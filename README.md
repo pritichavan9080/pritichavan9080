@@ -32,8 +32,8 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/priti-chavan-17580033b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: pritichavan9080@gmail.com
 <!--
 **pritichavan9080/pritichavan9080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
