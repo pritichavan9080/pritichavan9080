@@ -48,20 +48,10 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pritichavan9080&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=pritichavan9080&theme=tokyonight&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pritichavan9080&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&theme=tokyonight&layout=compact)
-
----
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&layout=compact&theme=tokyonight&langs_count=6)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&layout=compact&theme=tokyonight)
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=pritichavan9080&theme=tokyonight&no-frame=true&margin-w=10)
