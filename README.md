@@ -19,7 +19,7 @@
 
 💬 Ask me about Java, Spring Boot, REST APIs, React.js and MySQL
 
-📫 Reach me at: **yourmail@gmail.com**
+📫 Reach me at: pritichavan9080@gmail.com
 
 ---
 
