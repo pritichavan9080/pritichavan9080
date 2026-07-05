@@ -34,6 +34,14 @@
 
 - LinkedIn: https://www.linkedin.com/in/priti-chavan-17580033b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: pritichavan9080@gmail.com
+
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritichavan9080&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pritichavan9080&theme=tokyonight)
 <!--
 **pritichavan9080/pritichavan9080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
