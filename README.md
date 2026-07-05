@@ -60,6 +60,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&theme=tokyonight&layout=compact)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritichavan9080&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritichavan9080&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritichavan9080&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 # 🏆 GitHub Trophies
 
